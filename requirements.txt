@@ -1,0 +1,9 @@
+# Librerías principales de Multimedia y GUI
+pygame==2.5.2
+
+# Procesamiento de Visión Artificial
+opencv-python==4.9.0.80
+mediapipe==0.10.11
+
+# Cálculo Numérico
+numpy==1.26.4
